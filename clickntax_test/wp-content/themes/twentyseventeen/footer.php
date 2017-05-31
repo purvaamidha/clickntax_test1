@@ -39,8 +39,13 @@
 				?>
 			</div><!-- .wrap -->
 		</footer><!-- #colophon -->
-	</div><!-- .site-content-contain -->
+		</div><!-- .site-content-contain -->
 </div><!-- #page -->
+		<!--adding footer content -->
+		
+		
+		
+	
 
 <script type="text/javascript">
 	function revslider_showDoubleJqueryError(sliderID) {
@@ -92,6 +97,8 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 
 <!-- Adding script for testimonial slider -->
 <?php wp_footer(); ?>
+
+
 
 </body>
 </html>

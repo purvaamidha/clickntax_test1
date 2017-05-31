@@ -1410,3 +1410,56 @@ li {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+ul.gstlist li {
+    background: url(../img/tick_circle.png) no-repeat !important;
+    background-position: 1px 20px !important;
+    margin: 0;
+    padding: 20px 0px 0px 36px !important;
+    list-style: none !important;
+    display: block !important;
+    font-weight: 400;
+    font-size: 15px;
+    color: #262626;
+}
+.GstHeading{font-size:24px;font-weight:400;}
+
+.page .text-gray-base {
+    color: #000;
+}
+
+.bg-white.shell {
+    background: white;
+}
+
+.mr-top
+{
+	margin-top: -145px;
+	margin-left: 20px;
+}
+
+
+.mr-box
+{
+	margin-top: -750px;
+	margin-left: -139px;
+	margin-right: 5px;
+	padding: 0px 2px;
+}
+
+.icon-lg {
+    width: 45px;
+    height: 45px;
+    font-size: 45px;
+    line-height: 45px;
+    margin-left: 28px;
+}
